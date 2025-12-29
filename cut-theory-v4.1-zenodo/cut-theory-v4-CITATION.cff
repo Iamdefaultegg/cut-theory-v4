@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Cut Theory v4.0 — Core Canon"
+type: manuscript
+authors:
+  - family-names: Ross
+    given-names: Luke
+    alias: DefaultEgg
+date-released: "2025-12-29"
+version: "v4.0"
+keywords:
+  - ontology
+  - emergence
+  - recurrence
+  - boundaries
+  - Markov dynamics
+  - coarse-graining
+  - dimensionality
+  - thermodynamics
+  - cognition
+  - agency
+license: "CC-BY-4.0"
