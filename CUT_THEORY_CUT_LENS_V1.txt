@@ -1,0 +1,382 @@
+CUT THEORY — THE CUT LENS
+An alternative entry point into Plan G.
+For readers coming from systems theory, computer science,
+philosophy of mind, or complexity theory.
+Plan G. Version 1. March 2026.
+
+⸻
+
+A NOTE BEFORE YOU READ
+
+Plan G derives everything from Nothing.
+The language it uses — NAN, AND-lock, FoF, XOR, IFF —
+emerges from that derivation and is precise but unfamiliar.
+
+This lens offers an alternative vocabulary.
+The same architecture. Different entry point.
+
+If you find it more natural to think in terms of
+cuts, boundaries, tension, recurrence, and slices —
+this is your door in.
+
+Everything here maps exactly onto Plan G.
+Nothing here is extra metaphysics.
+The Cut Lens is a translation, not a separate theory.
+
+At the end of each section the Plan G equivalent is given.
+
+⸻
+
+THE TWO STARTING POINTS
+
+The Cut Lens starts from:
+— Identity: a pattern recognisable as the same across transitions.
+— Cut: an operation that introduces categorical separation (inside/outside).
+
+Plan G starts from:
+— Nothing cannot prevent something.
+
+These are not competing claims. Plan G derives Identity and Cut.
+Identity = AND-lock coherence (stable enough to persist).
+Cut = what emerges at 1D when OR becomes available —
+      distinguishable NOTs, first direction, first extension.
+
+If you prefer to start from Identity and Cut as handles
+rather than derive them — this lens is for you.
+You will arrive at the same architecture.
+
+⸻
+
+THE HANDLES
+
+These are compressed names for forced consequences.
+Not extra metaphysics. Readable shortcuts.
+
+IDENTITY
+A pattern that can be recognised as the same across transitions.
+Not a substance. Not an object. A criterion: "this persists enough to count as itself."
+Plan G equivalent: AND-lock coherence. Committed structure that survives the cutting front.
+
+CUT
+An operation that introduces categorical separation: inside/outside.
+Not assumed spatial. Space emerges later as stable adjacency.
+Plan G equivalent: OR at 1D. The first direction. The first distinction.
+
+BOUNDARY
+A stabilised distinction. The persistent edge of a cut.
+Primarily categorical — crossing it changes what the system treats as possible.
+Plan G equivalent: IFF closure at 2D. First genuine inside/outside.
+
+TENSION
+The relational pressure created because the two sides of a boundary
+are no longer the same. Not a force — a demand that difference
+must now be accounted for.
+Plan G equivalent: AND-lock cost differential. The pressure to reduce
+cost by forming bonds or maintaining coherence.
+
+RECURRENCE
+The survival of a boundary-pattern across transitions.
+Identity in action.
+Plan G equivalent: forced by the null point's logic.
+Having deviated from Nothing, return is unavailable.
+The spiral not the loop. Always forward.
+
+FABRIC
+A network of mutually reinforcing recurrences.
+Relational structure: stable continuations constrain each other.
+Plan G equivalent: AND-lock network. Chemistry, biology, physics
+are all fabrics at different scales.
+
+SLICE
+An operation that rewrites an existing boundary.
+Cuts introduce structure. Slices transform structure.
+Slices act only on what is already formed.
+Plan G equivalent: update event at the cutting front.
+The advance of committed structure into FoF.
+
+DIMENSION
+A recurrence-pattern that remains coherent under slice events.
+An invariant degree of freedom under permitted transformations.
+Plan G equivalent: dimensional threshold in the ladder.
+Each dimension is a new logical operation that becomes available.
+
+AGENCY
+Active identity-preservation through selective recurrence.
+Selecting continuations that maintain coherence under constraints.
+Plan G equivalent: Mind threshold. The observer's cutting front
+with a self-model rich enough to select coherence-preserving continuations.
+
+⸻
+
+THE NECESSITY CHAIN
+
+If Identity exists and Cut is possible, the following chain is unavoidable.
+
+1. CUT → BOUNDARY
+   Inside/outside implies a boundary relation.
+   Plan G: OR at 1D → IFF at 2D. The cut forces a closure.
+
+2. BOUNDARY → TENSION
+   Difference across a boundary creates relational pressure.
+   Plan G: AND-lock cost differential. Structure wants to minimise cost.
+
+3. TENSION → RECURRENCE
+   Repeated resolution of tension stabilises a pattern.
+   Plan G: null point recurrence. The spiral not the loop.
+
+4. RECURRENCE → FABRIC
+   Multiple stable recurrences constrain each other into a network.
+   Plan G: AND-lock network building up through dimensional thresholds.
+
+5. FABRIC → SLICE
+   Once a network exists, boundary rewrites become the minimal
+   form of change that preserves partial structure.
+   Plan G: cutting front advancing. FoF ahead always open.
+
+6. SLICE → DIMENSION
+   Consistent slice biases stabilise invariant degrees of freedom.
+   Plan G: dimensional ladder. Each threshold produces new logical operations.
+
+7. DIMENSION → IDENTITY
+   Identity becomes navigable continuity across slice sequences.
+   Plan G: observer as cutting front threading coherent slices.
+
+8. IDENTITY → AGENCY
+   Once continuity exists, selection can preserve it.
+   Plan G: Mind threshold. Self-modelling observer selects coherent continuations.
+
+One-line summary:
+A coherent world is identity surviving cuts, updating through slices,
+stabilising into fabrics, and growing dimensions where invariants persist.
+
+⸻
+
+THE OPERATORS
+
+CUT
+Creates a categorical separation. Creates sides.
+Before a cut: no distinction. After: inside and outside exist.
+Scale: from the first null point (0D) to the measurement event (quantum scale).
+
+SLICE
+Acts only on already-structured boundaries.
+Rewrites adjacency without reducing everything to no structure.
+
+Three slice outcomes:
+1. Preserve identity: boundary survives, complexity increases.
+2. Shift identity: boundary reorients, domain changes.
+3. Divide identity: one coherence becomes multiple coherences.
+
+Plan G: the cutting front advancing into FoF.
+Every update is a slice. The past is committed structure.
+FoF ahead is always open.
+
+COLLAPSE
+When slicing exceeds what a structure can redistribute.
+Identity loses coherence and falls back to earlier recurrence.
+Plan G: AND-lock failure. Structure dissolves below its stability threshold.
+
+DIAGONALIZATION
+When recurrence cannot remain symmetric.
+A persistent lean survives instead of cancelling out.
+The seed of new degrees of freedom.
+Plan G: dimensional emergence. At each threshold, new structure that
+didn't exist at the level below. Not symmetric — genuinely new.
+
+EMERGENCE
+When a new stable recurrence survives slicing and becomes
+a new layer of structure.
+Plan G: threshold crossing in the dimensional ladder.
+Chemistry from physics. Biology from chemistry. Mind from biology.
+Each emergence is a new AND-lock structure that was not present below.
+
+⸻
+
+QUANTUM MECHANICS IN CUT LANGUAGE
+
+Wave function collapse is not a physical event.
+It is the moment the bulk description becomes fully redundant
+because the boundary has irreversibly committed to an outcome.
+
+Before measurement:
+The system has no stable boundary yet.
+The wave function is the pre-cut map —
+a description of viable continuations, not a physical object.
+
+Interaction begins:
+The system couples to a measuring device.
+A new slice is being added.
+
+Crossing gets pinned:
+The interaction creates a stable distinction.
+One outcome now committed.
+
+Environmental broadcast:
+The environment copies that outcome redundantly
+into many independent fragments.
+Photons, air molecules, thermal modes.
+
+Irreversibility threshold:
+Once enough fragments carry the same record,
+the encoding cannot be undone without infinite cost.
+The pre-cut description is now retired — not collapsed, superseded.
+
+The measurement problem was always a translation error:
+Wave function = pre-cut bulk description (viable continuations).
+Post-measurement state = post-cut boundary description (committed outcome).
+Expecting them to share the same mathematical character
+is like being surprised a menu and a meal have different properties.
+
+Plan G equivalent: scale dilation.
+QM is what physics looks like when observer and system
+are at the same dimensional level.
+Collapse = dimensional position fixed. One dilation selected.
+No mystery. No consciousness required. Just dimensional geometry.
+
+⸻
+
+THERMODYNAMICS IN CUT LANGUAGE
+
+HEAT
+Chaotic micro-slicing inside a fabric.
+Random boundary rewrites at the micro scale.
+
+TEMPERATURE
+Average slice volatility of a region.
+How many viable micro-slices per step.
+
+WORK
+Directed slice-control that preserves or reshapes a target identity.
+
+ENTROPY
+Boundary blur.
+More precisely: how many micro-identities can realise the same macro-identity.
+The number of ways the micro-slices can be arranged
+while the macro-boundary stays recognisable.
+
+SECOND LAW
+In sufficiently complex fabrics with uncontrolled slicing,
+recoverable boundary structure tends to diffuse.
+Fine constraints are fragile under slicing.
+Reconstruction requires coordinated recurrence across many degrees of freedom.
+
+Plan G equivalent: FoF always wins eventually.
+Committed structure requires AND-lock maintenance.
+Without maintenance, structure dissolves back toward FoF.
+The cutting front always propagates into uncommitted ground.
+
+⸻
+
+SCALE IN CUT LANGUAGE
+
+Scale is boundary economics.
+Resize an identity, you resize the bottleneck.
+The "laws" shift because the cheapest stable recurrence shifts.
+
+If you double a linear size L:
+Surface area scales like L² — boundary grows "square."
+Volume scales like L³ — inside grows "cube."
+Boundary per inside goes like 1/L.
+
+Small things: huge boundary per inside.
+Fast exchange. Easy cooling. Easy diffusion.
+
+Big things: tiny boundary per inside.
+Interface bottleneck. Overheating. Transport limits.
+
+Scale forces architecture:
+More boundary (folding, branching, fractals).
+Internal transport networks.
+New layers of structure (organs, vasculature, hierarchy).
+
+Why cells are small: diffusion + boundary exchange dominate.
+Why lungs are folded: manufacturing boundary area to match volume demand.
+Why animals need circulatory systems: boundary bottleneck solved by internal transport.
+Why large systems become hierarchical: coordination tension rises.
+
+Plan G equivalent: SCALE line (SCALE-00000 through SCALE-00004).
+Scale = resolution = depth of AND relationships under examination.
+Scale dilation = apparent structure changes with observer's dimensional position.
+
+⸻
+
+KNOTS IN CUT LANGUAGE
+
+Knots are topologically protected recurrence.
+A closed resonant boundary that cannot be deformed away without tearing.
+The stable topological identity that survives every slice
+while carrying conserved invariants.
+
+The mechanism:
+1. The primal boundary closes — it is a loop.
+2. Resonance puts standing waves on the loop.
+   The wave cannot slide off without breaking continuity.
+3. Layering embeds the loop in higher-dimensional space.
+   Crossings become inevitable and protected.
+4. Interference creates nodes that act as pins.
+   The pattern cannot be untied without destroying the node structure.
+5. Invariants (Jones polynomial, HOMFLY) are the measurable quantities
+   that survive every allowed slice.
+
+The knot type is the ultimate stable identity.
+You can stretch, twist, and layer the boundary as much as you like.
+The knot cannot be undone without paying infinite tension (tearing the fabric).
+
+Particles are knots.
+Conservation laws are knot invariants.
+The CPT theorem is knot reversal symmetry.
+
+Plan G equivalent: KNOT line.
+Particles as stable topological structures at 3D XOR threshold.
+Knot invariants as conservation laws. Status: DERIVED.
+
+⸻
+
+HONEST ACCOUNTING
+
+What the Cut Lens is:
+— An alternative entry point for readers with systems/CS/philosophy background.
+— Accurate translation of Plan G into earlier vocabulary.
+— Preserves the explanatory quality of the middle stack.
+— All toy models and pressure tests applicable.
+
+What the Cut Lens is not:
+— A separate theory. It is Plan G in different language.
+— A foundation. Identity and Cut are derived in Plan G, not assumed here.
+— More fundamental than Plan G. Plan G goes deeper.
+
+The relationship:
+Cut Lens vocabulary → Plan G derivation → same results.
+Any reader who masters the Cut Lens has the right concepts
+to follow the Plan G derivations.
+The Cut Lens is the accessible ramp. Plan G is the foundation.
+
+Status: DERIVED (as translation of Plan G). 
+All results carry the same epistemic status as their Plan G equivalents.
+
+⸻
+
+CROSS-REFERENCES
+
+Full Plan G derivations:
+CUT_THEORY_CONSOLIDATED_V12_FINAL.txt — foundation
+CUT_THEORY_PUBLICATION_DRAFT_V3.txt — complete chain
+CUT_MASTER_ARCHITECTURE_V5.txt — master index
+
+Scale lens: SCALE_LINE_PLAN_G_V12.txt
+Geometry lens: GEOMETRY_LINE_PLAN_G_V11.txt
+Time lens: TIME_LINE_PLAN_G_V11.txt
+
+Version history: CUT_THEORY_VERSION_HISTORY.txt
+
+⸻
+
+VERSION NOTE
+
+Cut Lens Version 1. March 2026.
+Distilled from the V4.5 Middle Stack (~10,800 lines across six files).
+Compiled manually by Luke Ross from individual files, January 2026.
+Reformulated as Plan G lens, March 2026.
+Preserves the best explanatory prose from the middle stack.
+Maps all Cut vocabulary onto Plan G equivalents.
+Alternative entry point — same destination.
