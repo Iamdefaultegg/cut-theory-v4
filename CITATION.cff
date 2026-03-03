@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Cut Theory — Plan G (V5.0): A Unified Theory from Nothing to Beauty"
+type: manuscript
+authors:
+  - family-names: Ross
+    given-names: Luke
+    alias: DefaultEgg
+date-released: "2026-03-03"
+version: "v5.0"
+keywords:
+  - unified theory
+  - ontology
+  - emergence
+  - nothing
+  - fine structure constant
+  - fundamental forces
+  - consciousness
+  - dimensionless constants
+  - six integers
+  - coherence
+  - recurrence
+  - boundaries
+  - knot theory
+  - quantum mechanics
+  - cosmological constant
+  - beauty
+license: "CC-BY-4.0"
